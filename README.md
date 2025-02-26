@@ -1,7 +1,4 @@
 # Climate-Change-Data-Analysis-Using-Big-Data
-
-# Climate Change Data Analysis Using Big Data
-
 ## Presented By
 - **Krishna Teja Reddy Suram**
 - **LakshmiPriya Palaparthy**
